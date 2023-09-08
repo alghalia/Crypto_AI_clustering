@@ -20,11 +20,11 @@ This app can be used to study how crypto currencies relate to each other and the
 
 Before running the application first install the following dependencies.
 
-Install Python
-Install Panda
-pip install Panda
-Install JupterLabs
-pip install jupyter
+* Install Python
+* Install Panda
+* pip install Panda
+* Install JupterLabs
+* pip install jupyter
 
 ---
 ## Contributors
